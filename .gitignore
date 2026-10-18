@@ -14,3 +14,8 @@ npm-debug.log*
 .DS_Store
 Thumbs.db
 .vscode/
+
+/generated/prisma
+
+# Prisma generated client
+generated/

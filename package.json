@@ -1,0 +1,27 @@
+{
+  "name": "ff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcsabino29/FF_Analyzer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcsabino29/FF_Analyzer/issues"
+  },
+  "homepage": "https://github.com/jcsabino29/FF_Analyzer#readme",
+  "devDependencies": {
+    "dotenv": "^18.0.8",
+    "prisma": "^7.10.1"
+  },
+  "dependencies": {
+    "@prisma/client": "^7.10.1"
+  }
+}

@@ -18,10 +18,12 @@
   },
   "homepage": "https://github.com/jcsabino29/FF_Analyzer#readme",
   "devDependencies": {
-    "dotenv": "^18.0.8",
     "prisma": "^7.10.1"
   },
   "dependencies": {
-    "@prisma/client": "^7.10.1"
+    "@prisma/adapter-pg": "^7.10.1",
+    "@prisma/client": "^7.10.1",
+    "dotenv": "^18.0.8",
+    "pg": "^8.23.1"
   }
 }
